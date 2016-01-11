@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start: 2016-01-11 03:22:43
+  end: 2016-01-11 03:22:43
+  season_id: 
+  type: 
+  notes: MyText
+
+two:
+  start: 2016-01-11 03:22:43
+  end: 2016-01-11 03:22:43
+  season_id: 
+  type: 
+  notes: MyText
