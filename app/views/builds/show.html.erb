@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Start:</strong>
+  <%= @build.start %>
+</p>
+
+<p>
+  <strong>End:</strong>
+  <%= @build.end %>
+</p>
+
+<p>
+  <strong>Season:</strong>
+  <%= @build.season %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @build.type %>
+</p>
+
+<p>
+  <strong>Notes:</strong>
+  <%= @build.notes %>
+</p>
+
+<%= link_to 'Edit', edit_build_path(@build) %> |
+<%= link_to 'Back', builds_path %>
